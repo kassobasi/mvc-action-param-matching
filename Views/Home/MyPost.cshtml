@@ -1,0 +1,29 @@
+﻿@model mvcdemo.Models.PairUploadViewModel
+
+@{
+    ViewData["Title"] = "MyPost";
+}
+<h2>@ViewData["Title"]</h2>
+
+
+<table>
+    <tr><th>Code1</th><th>Code2</th></tr>
+@foreach (var pair in Model.FirstList) {
+    <tr>
+        <td>@pair.Code1</td>
+        <td>@pair.Code2</td>
+    </tr>
+}
+</table>
+
+<p>and...</p>
+
+<table>
+    <tr><th>Code1</th><th>Code2</th></tr>
+@foreach (var pair in Model.SecondList) {
+    <tr>
+        <td>@pair.Code1</td>
+        <td>@pair.Code2</td>
+    </tr>
+}
+</table>

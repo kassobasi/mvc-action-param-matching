@@ -1,0 +1,10 @@
+C:\Users\serdar\Source\github\mvcdemo\bin\Debug\netcoreapp2.0\mvcdemo.deps.json
+C:\Users\serdar\Source\github\mvcdemo\bin\Debug\netcoreapp2.0\mvcdemo.runtimeconfig.json
+C:\Users\serdar\Source\github\mvcdemo\bin\Debug\netcoreapp2.0\mvcdemo.runtimeconfig.dev.json
+C:\Users\serdar\Source\github\mvcdemo\bin\Debug\netcoreapp2.0\mvcdemo.dll
+C:\Users\serdar\Source\github\mvcdemo\bin\Debug\netcoreapp2.0\mvcdemo.pdb
+C:\Users\serdar\Source\github\mvcdemo\obj\Debug\netcoreapp2.0\mvcdemo.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Source\github\mvcdemo\obj\Debug\netcoreapp2.0\mvcdemo.AssemblyInfoInputs.cache
+C:\Users\serdar\Source\github\mvcdemo\obj\Debug\netcoreapp2.0\mvcdemo.AssemblyInfo.cs
+C:\Users\serdar\Source\github\mvcdemo\obj\Debug\netcoreapp2.0\mvcdemo.dll
+C:\Users\serdar\Source\github\mvcdemo\obj\Debug\netcoreapp2.0\mvcdemo.pdb
